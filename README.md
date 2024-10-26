@@ -1,4 +1,6 @@
+
 ## 👋 Hi, I'm Martin Joshy!
+
 
 I'm a **Full Stack Developer** with a knack for building user-centric applications. I transitioned from hospitality into tech and bring adaptability and problem-solving skills to every project I tackle. Currently, I'm focusing on creating collaborative and productivity-enhancing tools.
 
@@ -47,7 +49,7 @@ I'm a **Full Stack Developer** with a knack for building user-centric applicatio
 ![Google APIs](https://img.shields.io/badge/-Google_APIs-4285F4?style=flat&logo=google&logoColor=white)
 ![OAuth](https://img.shields.io/badge/-OAuth-3A3A3A?style=flat&logo=oauth&logoColor=white)
 ![Block Notes](https://img.shields.io/badge/-Block_Notes-4A4A55?style=flat&logo=notion&logoColor=white)
-![Liveblocks](https://img.shields.io/badge/-Liveblocks-FF5851?style=flat&logo=react&logoColor=white)
+![Liveblocks](https://img.shields.io/badge/)
 ![Django Channels](https://img.shields.io/badge/-Django%20Channels-092E20?style=flat&logo=django&logoColor=white)
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
