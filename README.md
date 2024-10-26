@@ -7,6 +7,7 @@ I'm a **Full Stack Developer** with a knack for building user-centric applicatio
 🚀 I'm currently working on a **Collaborative Notebook application** for self-learners, aimed at helping users organize and share their study materials.  
 🔧 Building my knowledge in **Docker** and **Kubernetes** to strengthen my deployment and scaling expertise.
 
+
 ---
 
 ### 🛠️ Tech Stack
@@ -20,7 +21,7 @@ I'm a **Full Stack Developer** with a knack for building user-centric applicatio
 ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/-Shadcn-4A4A55?style=flat&logo=react&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-1E1E1E?style=flat&logo=react&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
@@ -49,7 +50,7 @@ I'm a **Full Stack Developer** with a knack for building user-centric applicatio
 ![Google APIs](https://img.shields.io/badge/-Google_APIs-4285F4?style=flat&logo=google&logoColor=white)
 ![OAuth](https://img.shields.io/badge/-OAuth-3A3A3A?style=flat&logo=oauth&logoColor=white)
 ![Block Notes](https://img.shields.io/badge/-Block_Notes-4A4A55?style=flat&logo=notion&logoColor=white)
-![Liveblocks](https://img.shields.io/badge/)
+![Liveblocks](https://img.shields.io/badge/-Liveblocks-F35A48?style=flat&logo=webrtc&logoColor=white)
 ![Django Channels](https://img.shields.io/badge/-Django%20Channels-092E20?style=flat&logo=django&logoColor=white)
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
