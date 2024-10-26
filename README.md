@@ -4,7 +4,7 @@
 
 I'm a **Full Stack Developer** with a knack for building user-centric applications. I transitioned from hospitality into tech and bring adaptability and problem-solving skills to every project I tackle. Currently, I'm focusing on creating collaborative and productivity-enhancing tools.
 
-🚀 I'm currently working on a **Collaborative Notebook application** for self-learners, aimed at helping users organize and share their study materials.  
+🚀 I'm currently working on a [Collaborative Notebook application](https://github.com/martin-joshy/Brainwave) for self-learners, aimed at helping users organize and share their study materials.  
 🔧 Building my knowledge in **Docker** and **Kubernetes** to strengthen my deployment and scaling expertise.
 
 
