@@ -14,3 +14,8 @@ Right now I am a web developer and I don't limit myself to any stack or any lang
 Right now I am personally working and understanding Linux which is my quest to reach the lowest level in computers.
 
 Don't know if my bio makes sense but if it does let's connect and build something great!!
+
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-joshy&layout=compact&theme=radical&hide_progress=false)
