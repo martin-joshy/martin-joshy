@@ -15,7 +15,3 @@ Right now I am personally working and understanding Linux which is my quest to r
 
 Don't know if my bio makes sense but if it does let's connect and build something great!!
 
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melxincognito&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
